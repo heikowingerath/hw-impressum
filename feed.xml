@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>hw-impressum</title>
-    <link href="https:///feed.xml" rel="self" />
-    <link href="https://" />
+    <link href="https://heikowingerath.github.io/hw-impressum/feed.xml" rel="self" />
+    <link href="https://heikowingerath.github.io/hw-impressum" />
     <updated>2022-05-19T17:55:16+02:00</updated>
     <author>
         <name>Heiko Wingerath</name>
     </author>
-    <id>https://</id>
+    <id>https://heikowingerath.github.io/hw-impressum</id>
 
     <entry>
         <title>Hallo Welt!</title>
         <author>
             <name>Heiko Wingerath</name>
         </author>
-        <link href="https:///hallo-welt/"/>
-        <id>https:///hallo-welt/</id>
+        <link href="https://heikowingerath.github.io/hw-impressum/hallo-welt/"/>
+        <id>https://heikowingerath.github.io/hw-impressum/hallo-welt/</id>
 
         <updated>2022-05-19T17:55:16+02:00</updated>
             <summary></summary>

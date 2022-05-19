@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "hw-impressum",
     "description": "",
-    "home_page_url": "https://",
-    "feed_url": "https:///feed.json",
+    "home_page_url": "https://heikowingerath.github.io/hw-impressum",
+    "feed_url": "https://heikowingerath.github.io/hw-impressum/feed.json",
     "user_comment": "",
     "author": {
         "name": "Heiko Wingerath"
     },
     "items": [
         {
-            "id": "https:///hallo-welt/",
-            "url": "https:///hallo-welt/",
+            "id": "https://heikowingerath.github.io/hw-impressum/hallo-welt/",
+            "url": "https://heikowingerath.github.io/hw-impressum/hallo-welt/",
             "title": "Hallo Welt!",
             "author": {
                 "name": "Heiko Wingerath"
